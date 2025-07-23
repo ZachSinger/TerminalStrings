@@ -1,0 +1,3 @@
+Need to make it refresh pages on successful fetch (Done)
+Can come up with a way to interpolate data into the received strings, could make things more flexible
+Need to make GM control panel
